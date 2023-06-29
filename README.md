@@ -1,19 +1,6 @@
 # **Smart drilling**
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding-right: 10px;">
-    <img src="img/image1.png" alt="test1" style="max-width: 80%; border-radius: 5%;">
-    <h4>Run screenshot 1</h2>
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <img src="img/image2.png" alt="test2" style="max-width: 80%;border-radius: 5%;">
-    <h4>Run screenshot 2</h2>
-  </div>
-</div>
-
-<img src="img/image2.png" width="220px">
-
-
+<img src="img/image.png">
 
 ## Description of the project
 1. The `GBDTLSTMModel` is a Python class used for time series prediction using the GBDT-LSTM model. The model combines shallow and deep learning techniques to effectively extract information from the data and handle non-linear relationships to improve prediction accuracy.
